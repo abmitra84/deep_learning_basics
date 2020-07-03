@@ -4,6 +4,7 @@
 # Attention, Self Attention
 1. Andrew Ng's Sequence Model videos
 2. https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html#whats-wrong-with-seq2seq-model
+3. Configure Encoder-Decoder models: https://machinelearningmastery.com/configure-encoder-decoder-model-neural-machine-translation/
 
 # Excellent Implementation Examples from Tensorflow
 1. https://www.tensorflow.org/tutorials/
