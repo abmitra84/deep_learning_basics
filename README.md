@@ -1,6 +1,10 @@
 # Deep_Learning_basics
 1. Deep Learnig book by Ian Goodfellow et al: http://www.deeplearningbook.org/
 
+# Softmax Regression
+1. Brandon Rohrer's excellent intro : https://e2eml.school/softmax.html
+2. Stanford Tutorial: http://ufldl.stanford.edu/tutorial/supervised/SoftmaxRegression/
+
 # Attention, Self Attention
 1. Andrew Ng's Sequence Model videos
 2. https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html#whats-wrong-with-seq2seq-model
