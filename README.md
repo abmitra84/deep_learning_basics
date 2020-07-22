@@ -32,3 +32,7 @@ https://www.jeremyjordan.me/nn-learning-rate/#:~:text=When%20entering%20the%20op
 # Gradient Checking
   1. Andrew Ng's deeplearning video
   2. Stanford Notes: https://cs231n.github.io/neural-networks-3/#gradcheck
+
+# Various Activation Functions and Type of Initializations
+  1. Survey of Activations and initializations: https://arxiv.org/pdf/2004.06632.pdf
+  2. Andrew Ng's Deep Learning course in deeplearning.ai
