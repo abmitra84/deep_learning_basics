@@ -20,7 +20,8 @@ https://arxiv.org/pdf/1804.07612.pdf
 https://www.jeremyjordan.me/nn-learning-rate/#:~:text=When%20entering%20the%20optimal%20learning,even%20diverge%20from%20the%20minima.
 
 # OPtimization fundamentals
-https://cs231n.github.io/optimization-1/
+1. Andrew Ng's videos in deeplearning.ai
+2. https://cs231n.github.io/optimization-1/
 
 # Gradient Descent Algorithms
   1. Andrew Ng's Deep Learning course in deeplearning.ai
