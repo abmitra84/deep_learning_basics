@@ -42,3 +42,4 @@ https://www.jeremyjordan.me/nn-learning-rate/#:~:text=When%20entering%20the%20op
   2. Cyclical Learning Rate: https://arxiv.org/pdf/1506.01186.pdf 
   3. Visualizing Loss Landscape: https://arxiv.org/pdf/1712.09913.pdf
   4. Annealing Learning Rate - Note by Karpathy: https://cs231n.github.io/neural-networks-3/#annealing-the-learning-rate
+  5. Snapshot Ensemble: https://arxiv.org/pdf/1803.05407.pdf; https://arxiv.org/pdf/1802.10026.pdf
