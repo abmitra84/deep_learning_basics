@@ -18,3 +18,8 @@ https://arxiv.org/pdf/1804.07612.pdf
 
 # Learning Rate in little more details
 https://www.jeremyjordan.me/nn-learning-rate/#:~:text=When%20entering%20the%20optimal%20learning,even%20diverge%20from%20the%20minima.
+
+# Gradient Descent Algorithms
+  1. Andrew Ng's Deep Learning course in deeplearning.ai
+  2. https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2
+  3. https://ruder.io/optimizing-gradient-descent/
