@@ -27,3 +27,7 @@ https://cs231n.github.io/optimization-1/
   2. https://www.youtube.com/watch?v=IHZwWFHWa-w&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=2
   3. https://ruder.io/optimizing-gradient-descent/
   4. Geoff Hinton's slides: http://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf
+
+# Gradient Checking
+  1. Andrew Ng's deeplearning video
+  2. Stanford Notes: https://cs231n.github.io/neural-networks-3/#gradcheck
