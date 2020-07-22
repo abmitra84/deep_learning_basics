@@ -36,3 +36,7 @@ https://www.jeremyjordan.me/nn-learning-rate/#:~:text=When%20entering%20the%20op
 # Various Activation Functions and Type of Initializations
   1. Survey of Activations and initializations: https://arxiv.org/pdf/2004.06632.pdf
   2. Andrew Ng's Deep Learning course in deeplearning.ai
+
+# Learning Rates for effective training
+  1. Overall survey: https://www.jeremyjordan.me/nn-learning-rate/#:~:text=When%20entering%20the%20optimal%20learning,even%20diverge%20from%20the%20minima.
+  2. Cyclical Learning Rate: https://arxiv.org/pdf/1506.01186.pdf 
